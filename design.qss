@@ -1,0 +1,80 @@
+
+#windows
+{
+    background-color:#99b3ff;
+    min-width:500px;
+    min-height:550px;
+    max-width:500px;
+    max-height:550px;
+}
+
+#picLabel
+{
+    min-width:300px;
+    min-height:350px;
+    max-width:300px;
+    max-height:350px;
+    background-color:white;
+}
+
+#btns
+{
+    background-color:#99b3ff;
+    border:1px solid white;
+    padding:8px;
+    border-radius:2px;
+    color:white;
+    font-size:15px;
+
+}
+
+#btns:hover
+{
+    background-color:white;
+    color:#99b3ff;
+    font-size:15px;
+
+}
+#orLabel
+{
+    color:white;
+}
+
+#labels
+{
+    background-color:#99b3ff;
+    padding:8px;
+    font-weight:bold;
+    text-decoration:underline;
+    border-radius:2px;
+    color:white;
+    font-size:15px;
+}
+
+#back_arrow
+{
+    color:white;
+    font-weight: 900;
+    font-size:25px;
+    border-radius:5px;
+    margin-top:10px;
+    padding-top:-6px;
+}
+
+#back_arrow:hover
+{
+    background-color:white;
+    color:#99b3ff;
+}
+
+#crossBtn
+{
+    color:white;
+    font-size:15px;
+    border-radius:2px;
+}
+#crossBtn:hover
+{
+    background-color:red;
+    color:white;
+}
